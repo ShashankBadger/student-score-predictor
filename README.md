@@ -61,5 +61,5 @@ CSV file used: `hours_scores.csv`
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/student-score-predictor.git
+[git clone https://github.com/ShashankBadger/student-score-predictor.git}
 
