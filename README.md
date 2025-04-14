@@ -53,7 +53,7 @@ CSV file used: `hours_scores.csv`
 
 ## 🗃️ Output Visualization
 
-![Plot](screenshot.png)
+![Plot](image.png)
 
 ---
 
